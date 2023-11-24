@@ -1,0 +1,78 @@
+---
+title: "Probability"
+author: "Sally Alidong"
+format: html
+editor: visual
+---
+
+# Introduction
+
+**Probability** is a measure of the likelihood of an event to occur. Many events cannot be predicted with total certainty. We can predict only the chance of an event to occur i.e., how likely they are going to happen, using it. Probability can range from 0 to 1, where 0 means the event to be an impossible one and 1 indicates a certain event. Probability for Class 10 is an important topic for the students which explains all the basic concepts of this topic. **The probability of all the events in a sample space adds up to 1.**
+
+## **Formula to Calculate Probability**
+
+**The formula of the probability of an event is**:
+
+P (A) = Number of Favourable Outcome/ Total Number of Favourable Outcome
+
+Probability Formula
+
+Or,
+
+|                      |
+|----------------------|
+| **P(A) = n(A)/n(S)** |
+
+Where,
+
+-   P(A) is the probability of an event "A"
+
+-   n(A) is the number of favourable outcomes
+
+-   n(S) is the total number of events in the sample space
+
+## **Example Questions Using Probability Formulas**
+
+**Example 1:** What is the probability that a card taken from a standard deck, is an Ace?
+
+**Solution**:
+
+Total number of cards a standard pack contains = 52
+
+Number of Ace cards in a deck of cards = 4
+
+So, the number of favourable outcomes = 4
+
+Now, by looking at the formula,
+
+Probability of selecting an ace from a deck is,
+
+P(Ace) = (Number of favourable outcomes) / (Total number of favourable outcomes)
+
+P(Ace) = 4/52
+
+= 1/13
+
+So we can say that the probability of getting an ace is 1/13.
+
+**Example 2**: Calculate the probability of getting an odd number if a dice is rolled.
+
+**Solution:**
+
+Sample space (S) = {1, 2, 3, 4, 5, 6}
+
+n(S) = 6
+
+Let \"E\" be the event of getting an odd number, E = {1, 3, 5}
+
+n(E) = 3
+
+So, the Probability of getting an odd number is:
+
+P(E) = (Number of outcomes favorable)/(Total number of outcomes)
+
+= n(E)/n(S)
+
+= 3/6
+
+= ½
